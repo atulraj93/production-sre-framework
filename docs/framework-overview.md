@@ -124,6 +124,11 @@ Future additions may include:
 
 ---
 
+## Architecture Overview
+
+![PSGF Architecture](../diagrams/psgf-architecture-diagram.png)
+
+
 ## Conclusion
 
 The Production SRE Governance Framework (PSGF)
