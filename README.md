@@ -85,6 +85,31 @@ PSGF is designed for:
 
 ---
 
+## Contribution Statement
+
+The Production SRE Governance Framework (PSGF) builds upon established
+Site Reliability Engineering principles and extends them into a structured,
+governance-oriented system.
+
+Key contributions include:
+
+- A closed-loop reliability architecture connecting measurement,
+  policy enforcement, and system evolution
+
+- The URO (User → Risk → Objective) model for SLO design,
+  incorporating risk as a primary design dimension
+
+- A reliability governance model where error budgets act as
+  control signals for deployment and operational decisions
+
+- Explicit feedback loop definitions for learning, control,
+  and risk reduction in production systems
+
+This framework aims to bridge the gap between observability
+and operational governance in modern distributed systems.
+
+---
+
 ## Version
 
 **v1.0 — Initial Release**
